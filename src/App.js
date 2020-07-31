@@ -14,6 +14,8 @@ const MainContainer = styled.div`
   display: flex;
 `;
 
+const emptyDiv = styled.div``;
+
 function App() {
   return (
     <MainContainer>
